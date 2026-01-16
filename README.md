@@ -1,6 +1,6 @@
 # Task Management API
 
-Task Management API adalah RESTful API berbasis Express.js dan Sequelize (MySQL) yang mendukung autentikasi JWT, role-based authorization, dan manajemen task untuk user dan admin.
+Task Management API adalah RESTful API berbasis Express.js dan Sequelize (MySQL) yang mendukung autentikasi JWT, role-based authorization, dan manajemen task untuk member dan admin.
 
 ## Tech Stack
 
