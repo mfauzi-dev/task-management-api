@@ -23,7 +23,7 @@ Task Management API adalah RESTful API berbasis Express.js dan Sequelize (MySQL)
 
 ## Task Features
 
-# Member
+### Member
 
 -   **Create task**
 -   **Get task miliknya sendiri**
@@ -31,7 +31,7 @@ Task Management API adalah RESTful API berbasis Express.js dan Sequelize (MySQL)
 -   **Update task miliknya sendir**
 -   **Delete task miliknya sendiri**
 
-# Admin
+### Admin
 
 -   **Create task**
 -   **Get task miliknya sendiri dan semua user**
