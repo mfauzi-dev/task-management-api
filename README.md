@@ -78,18 +78,6 @@ git clone https://github.com/mfauzi-dev/task-management-api.git
     npm run dev
     ```
 
-## Teknologi
-
--   Express.js
-
--   Sequelize
-
--   MySQL
-
--   JWT
-
--   bcrypt
-
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT.  
